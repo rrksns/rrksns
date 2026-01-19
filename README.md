@@ -1,92 +1,54 @@
-## Hi there 👋
+# 👋 안녕하세요! 백엔드 개발자 이설입니다.
 
--- 자바 뱃지
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
+> **"안정적인 운영과 성능을 최우선으로 하는 개발을 지향합니다."**
 
--- 스프링 뱃지
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+Java(Spring Boot) 생태계에서 8년 동안 서비스를 개발하고 운영해왔습니다.
+단순한 기능 구현을 넘어, **시스템의 구조적 안정성**과 **성능 최적화**에 깊은 관심을 두고 있습니다.
 
--- 자바스크립트 뱃지
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFF"/> 
+### 🚀 About Me
+- ☕️ **Java & Spring Boot** 기반의 견고한 백엔드 시스템 구축을 주력으로 합니다.
+- 🏗 **표준 API 아키텍처 설계**를 통해 개발 생산성을 높이고 유지보수 비용을 절감한 경험이 있습니다.
+- ⚡️ **DB 및 쿼리 최적화**를 통해 대용량 트래픽 상황에서 응답 속도를 80% 이상 개선했습니다.
+- ☁️ 최근에는 **Kubernetes 기반의 MSA 환경** 구축과 **K-PaaS 호환성 인증** 등 인프라 및 클라우드 네이티브 기술로 영역을 확장하고 있습니다.
 
--- HTML5 뱃지
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/>
+---
 
--- CSS3 뱃지 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFF"/> 
+### 🛠 Tech Stack
 
--- jQuery 뱃지
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFF"/> 
+**Backend**
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
--- 오라클 뱃지
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=FFF"/> 
+**Database**
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 
--- 깃허브 뱃지
-<img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> 
+**DevOps & Infra**
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
--- 네이버 블로그 뱃지
-<a href="https://blog.naver.com/lio97" target="_blank"><img src="https://img.shields.io/badge/Blog-000?style=social&logo=naver&logoColor=03C75A"/></a>
+**Frontend**
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 
--- 인스타그램 뱃지
-<a href="https://www.instagram.com/so0yeon__?igsh=MXY1ZTBoemg4NW1mNA%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
+---
 
-<h1>안녕하세요, 웹 개발자입니다!</h1>
-<p>
-    7년간 웹 개발 분야에서 경험을 쌓으며, 고품질의 웹사이트와 애플리케이션을 제작해 왔습니다. 
-    깔끔하고 효율적인 코드를 작성하는 것을 좋아하며, 프로젝트와 블로그, 코딩 챌린지를 통해 
-    꾸준히 성장하고 있습니다.
-</p>
+### 📈 GitHub Stats
+![Seol's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrksns&show_icons=true&theme=radical)
 
-<h2>기술 스택</h2>
-<p>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/CI/CD-00A3E0?style=flat-square&logo=ci&logoColor=white"/>&nbsp
-</p>
+### 📫 Contact
+- 📧 Email: rrksns@gmail.com
 
-<h2>프로젝트</h2>
-<ul style="list-style: none; padding: 0;">
-    <li><a href="https://github.com/ZeroBin-dev/MYMSG_BE">프로젝트 1 - 카카오톡 카피코딩</a></li>
-    <li><a href="https://github.com/ZeroBin-dev/CusCenBot">프로젝트 2 - 고객센터 챗봇</a></li>
-    <li><a href="https://github.com/ZeroBin-dev/YoutubePlayerWithKS">프로젝트 3 - 유튜브 플레이어</a></li>
-</ul>
+## 🚀 Featured Projects
 
-<p>
-    더 많은 작업물을 보시려면 <a href="https://github.com/ZeroBin-dev">GitHub</a>와  
-    <a href="https://zerobin-dev.tistory.com/">티스토리 블로그</a>를 통해 확인하실 수 있습니다.
-</p>
+### **1. SettleFlow (정산 시스템)**
+> **"대용량 트래픽 처리를 고려한 MSA 기반 정산 시스템"**
+기존 모놀리식 구조의 한계를 극복하기 위해 설계한 마이크로서비스 프로젝트입니다. Kafka를 활용한 비동기 처리로 데이터 정합성을 확보하고 시스템 결합도를 낮추었습니다.
 
+- **Key Tech**: Java 17, Spring Boot, Kafka, Redis, Jenkins, Docker
+- **Focus**: 대용량 트래픽 분산 처리, CI/CD 파이프라인 구축
+- **Link**: [Repository 바로가기](https://github.com/본인ID/SettleFlow)
 
-<!--
-**rrksns/rrksns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **2. Clean CRM Engine**
+> **"Python/Django를 활용한 경량화 고객 관리 서비스"**
+새로운 언어(Python) 습득과 빠른 프로토타이핑을 목표로 개발한 웹 서비스입니다. Java 환경과는 다른 Django의 생산성을 경험하고, Docker를 활용해 배포 환경을 구성했습니다.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Key Tech**: Python, Django, Docker, PostgreSQL
+- **Focus**: 빠른 기능 구현, RESTful API 설계
+- **Link**: [Repository 바로가기](https://github.com/본인ID/clean-crm-engine)
