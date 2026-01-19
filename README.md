@@ -43,7 +43,7 @@ Java(Spring Boot) 생태계에서 8년 동안 서비스를 개발하고 운영�
 
 - **Key Tech**: Java 17, Spring Boot, Kafka, Redis, Jenkins, Docker
 - **Focus**: 대용량 트래픽 분산 처리, CI/CD 파이프라인 구축
-- **Link**: [Repository 바로가기](https://github.com/본인ID/SettleFlow)
+- **Link**: [Repository 바로가기](https://github.com/rrksns/SettleFlow)
 
 ### **2. Clean CRM Engine**
 > **"Python/Django를 활용한 경량화 고객 관리 서비스"**
@@ -51,4 +51,4 @@ Java(Spring Boot) 생태계에서 8년 동안 서비스를 개발하고 운영�
 
 - **Key Tech**: Python, Django, Docker, PostgreSQL
 - **Focus**: 빠른 기능 구현, RESTful API 설계
-- **Link**: [Repository 바로가기](https://github.com/본인ID/clean-crm-engine)
+- **Link**: [Repository 바로가기](https://github.com/rrksns/clean-crm-engine)
