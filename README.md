@@ -56,7 +56,8 @@ Java(Spring Boot) 생태계에서 8년 동안 서비스를 개발하고 운영�
 ### **3. First Time Seoul**
 > **"AI 기반 서울 여행 지식베이스 - 검색 가능하고 누적되는 Q&A 플랫폼"**                                            
 ChatGPT 같은 기존 챗봇의 한계(대화 저장 불가, 검색 불가)를 극복하기 위해 설계한 웹 서비스입니다. Google Gemini AI와 Supabase를 활용해 모든 질문과 답변을 축적 가능한 지식베이스로 구축했으며, Next.js 14의 App Router와 PWA 기술을 통해 빠르고 안정적인 사용자 경험을 제공합니다. 해당Repository는 private 입니다.                                                                                                                                                                                                                                  
-- **Key Tech**: Next.js 14, TypeScript, Tailwind CSS, Google Gemini, Supabase, PWA, Docker                                                                                              - **Focus**: AI 기반 콘텐츠 자동화, 대규모 검색 최적화, 다국어 지원(4개 언어), 오프라인 지원                                                                                                             - **Link**: [Repository 바로가기](https://github.com/rrksns/Hanbyeori) | [배포서버 바로가기](https://www.first-time-seoul.info)
+- **Key Tech**: Next.js 14, TypeScript, Tailwind CSS, Google Gemini, Supabase, PWA, Docker                                                                                              - **Focus**: AI 기반 콘텐츠 자동화, 대규모 검색 최적화, 다국어 지원(4개 언어), 오프라인 지원
+- **Link**: [Repository 바로가기](https://github.com/rrksns/Hanbyeori) | [배포서버 바로가기](https://www.first-time-seoul.info)
 
 ### **4. PurePick (화장품 검색 API)**
 > **"Elasticsearch와 Redis를 활용한 고성능 검색 시스템"**
@@ -64,7 +65,7 @@ ChatGPT 같은 기존 챗봇의 한계(대화 저장 불가, 검색 불가)를 �
 
 - **Key Tech**: Python, Django, Elasticsearch, Redis, MySQL, Docker
 - **Focus**: 캐싱 전략 최적화, 마이크로서비스, 실시간 랭킹, 포괄적 테스트 (33개)
-- **Link**: [Repository](https://github.com/rrksns/pure-pick-backend)
+- **Link**: [Repository 바로가기](https://github.com/rrksns/pure-pick-backend)
 
 
 
