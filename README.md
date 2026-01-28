@@ -26,11 +26,6 @@ Java/Spring기반 프로덕트를 8년간 개발·운영하며, 성장 단계 �
 
 ---
 
-### 📈 GitHub Stats
-![Seol's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrksns&show_icons=true&theme=radical)
-
-### 📫 Contact
-- 📧 Email: rrksns@gmail.com
 
 ## 🚀 Featured Projects
 
@@ -51,9 +46,9 @@ Java/Spring기반 프로덕트를 8년간 개발·운영하며, 성장 단계 �
 - **Link**: [Repository 바로가기](https://github.com/rrksns/clean-crm-engine)
 
 ### **3. First Time Seoul**
-> **"AI 기반 서울 여행 지식베이스 - 검색 가능하고 누적되는 Q&A 플랫폼"**                                            
+> **"AI 기반 서울 여행 지식베이스 - 검색 가능하고 누적되는 Q&A 플랫폼" : VIBE-CODING**                                            
 ChatGPT 같은 기존 챗봇의 한계(대화 저장 불가, 검색 불가)를 극복하기 위해 설계한 웹 서비스입니다. Google Gemini AI와 Supabase를 활용해 모든 질문과 답변을 축적 가능한 지식베이스로 구축했으며, Next.js 14의 App Router와 PWA 기술을 통해 빠르고 안정적인 사용자 경험을 제공합니다. 해당Repository는 private 입니다.                                                                                                                                                                                                                                  
-- **Key Tech**: Next.js 14, TypeScript, Tailwind CSS, Google Gemini, Supabase, PWA, Docker
+- **Key Tech**: Next.js 14, TypeScript, Tailwind CSS, Google Gemini, Supabase, PWA, Docker, Vacel, Clerk, Sentry
 - **Focus**: AI 기반 콘텐츠 자동화, 대규모 검색 최적화, 다국어 지원(4개 언어), 오프라인 지원
 - **Link**: [Repository 바로가기](https://github.com/rrksns/Hanbyeori) | [배포서버 바로가기](https://www.first-time-seoul.info)
 
