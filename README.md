@@ -60,5 +60,11 @@ ChatGPT 같은 기존 챗봇의 한계(대화 저장 불가, 검색 불가)를 �
 - **Focus**: 캐싱 전략 최적화, 마이크로서비스, 실시간 랭킹, 포괄적 테스트 (33개)
 - **Link**: [Repository 바로가기](https://github.com/rrksns/pure-pick-backend)
 
+### **4. MSA 활용 게시판**
+> **"MSA 활용한 게시판 서비스"**
+3개의 마이크로서비스(user-service, board-service, point-service)를 활용하여 프로젝트입니다.
 
+- **Key Tech**: JAVA17, MySQL, Docker, RestAPI, JPA
+- **Focus**: 마이크로 서비스 설계, 연동 API 생성, JPA활용
+- **Link**: [board-service 바로가기](https://github.com/rrksns/msa_board_service) | [user-service바로가기](https://github.com/rrksns/msa_user_service) | [point-service 바로가기](https://github.com/rrksns/msa_point_service)
 
