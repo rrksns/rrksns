@@ -28,8 +28,15 @@ Java/Spring기반 프로덕트를 8년간 개발·운영하며, 성장 단계 �
 
 
 ## 🚀 Featured Projects
+### **1. Notification Hub (알림 허브)**
+> **"멀티테넌트 환경을 고려한 MSA 기반 실시간 알림 발송 플랫폼"**
+알림 도메인을 Discovery, API Gateway, User, Notification, Delivery, Analytics 6개 서비스로 분리한 마이크로서비스 프로젝트입니다. Kafka 기반 비동기 파이프라인으로 발송 신뢰성을 확보하고, Circuit Breaker와 DLQ로 장애 격리를 구현했습니다. Kubernetes(OrbStack) 위에서 HPA와 Grafana 모니터링까지 갖춘 프로덕션 수준의 배포 환경을 구성했습니다.  
 
-### **1. SettleFlow (정산 시스템)**
+- **Key Tech**: Java 17, Spring Boot, Kafka, Redis, MongoDB, MySQL, Kubernetes, Terraform, GitHub Actions
+- **Focus**: CleanArchitecture, 비동기 이벤트 파이프라인, Circuit Breaker 장애 격리, k8s 배포 자동화 
+- **Link**: [Repository 바로가기](https://github.com/rrksns/notification-hub)
+
+### **2. SettleFlow (정산 시스템)**
 > **"대용량 트래픽 처리를 고려한 MSA 기반 정산 시스템"**
 기존 모놀리식 구조의 한계를 극복하기 위해 설계한 마이크로서비스 프로젝트입니다. Kafka를 활용한 비동기 처리로 데이터 정합성을 확보하고 시스템 결합도를 낮추었습니다.
 
@@ -37,7 +44,7 @@ Java/Spring기반 프로덕트를 8년간 개발·운영하며, 성장 단계 �
 - **Focus**: 대용량 트래픽 분산 처리, CI/CD 파이프라인 구축
 - **Link**: [Repository 바로가기](https://github.com/rrksns/SettleFlow)
 
-### **2. Clean CRM Engine**
+### **3. Clean CRM Engine**
 > **"Python/Django를 활용한 경량화 고객 관리 서비스"**
 새로운 언어(Python) 습득과 빠른 프로토타이핑을 목표로 개발한 웹 서비스입니다. Java 환경과는 다른 Django의 생산성을 경험하고, Docker를 활용해 배포 환경을 구성했습니다.
 
@@ -45,14 +52,14 @@ Java/Spring기반 프로덕트를 8년간 개발·운영하며, 성장 단계 �
 - **Focus**: 빠른 기능 구현, RESTful API 설계
 - **Link**: [Repository 바로가기](https://github.com/rrksns/clean-crm-engine)
 
-### **3. First Time Seoul**
+### **4. First Time Seoul**
 > **"AI 기반 서울 여행 지식베이스 - 검색 가능하고 누적되는 Q&A 플랫폼" : VIBE-CODING**                                            
-ChatGPT 같은 기존 챗봇의 한계(대화 저장 불가, 검색 불가)를 극복하기 위해 설계한 웹 서비스입니다. Google Gemini AI와 Supabase를 활용해 모든 질문과 답변을 축적 가능한 지식베이스로 구축했으며, Next.js 14의 App Router와 PWA 기술을 통해 빠르고 안정적인 사용자 경험을 제공합니다. 해당Repository는 private 입니다.                                                                                                                                                                                                                                  
+ChatGPT 같은 기존 챗봇의 한계(대화 저장 불가, 검색 불가)를 극복하기 위해 설계한 웹 서비스입니다. Google Gemini AI와 Supabase를 활용해 모든 질문과 답변을 축적 가능한 지식베이스로 구축했으며, Next.js 14의 App Router와 PWA 기술을 통해 빠르고 안정적인 사용자 경험을 제공합니다. 해당Repository는 private 입니다.                                                
 - **Key Tech**: Next.js 14, TypeScript, Tailwind CSS, Google Gemini, Supabase, PWA, Docker, Vacel, Clerk, Sentry
 - **Focus**: AI 기반 콘텐츠 자동화, 대규모 검색 최적화, 다국어 지원(4개 언어), 오프라인 지원
 - **Link**: [Repository 바로가기](https://github.com/rrksns/Hanbyeori) | [운영 사이트 바로가기](https://www.first-time-seoul.info)
 
-### **4. PurePick (화장품 검색 API)**
+### **5. PurePick (화장품 검색 API)**
 > **"Elasticsearch와 Redis를 활용한 고성능 검색 시스템"**
 마이크로서비스 아키텍처로 검색, 캐싱, 랭킹을 분리하고 동적 캐싱 전략으로 성능을 최적화한 프로젝트입니다.
 
@@ -60,7 +67,7 @@ ChatGPT 같은 기존 챗봇의 한계(대화 저장 불가, 검색 불가)를 �
 - **Focus**: 캐싱 전략 최적화, 마이크로서비스, 실시간 랭킹, 포괄적 테스트 (33개)
 - **Link**: [Repository 바로가기](https://github.com/rrksns/pure-pick-backend)
 
-### **5. MSA 활용 게시판**
+### **6. MSA 활용 게시판**
 > **"MSA 활용한 게시판 서비스"**
 3개의 마이크로서비스(user-service, board-service, point-service)를 활용하여 프로젝트입니다.
 
